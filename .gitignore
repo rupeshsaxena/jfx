@@ -49,6 +49,8 @@ testbin/
 .idea/modules
 *.iml
 *.ipr
+.idea/jpa-buddy.xml
+.idea/misc.xml
 
 # File-based project format
 *.iws
